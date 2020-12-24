@@ -2386,6 +2386,7 @@ var cnames_active = {
   "storybooks": "storybooks.github.io",
   "str": "manelet.github.io/str",
   "stratic": "straticjs.github.io",
+  "stratus": "StratusBotTeam.github.io",
   "stress": "julindra.github.io/stress.js",
   "structure": "hosting.gitbook.com",
   "strudel": "strudeljs.netlify.com",
